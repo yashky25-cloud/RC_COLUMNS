@@ -1,0 +1,13 @@
+Shape,Model,Failure_Mode,Test_Specimen_Count,Test_R2,Test_RMSE_kN,Test_MAE_kN,Sampling_Note
+Circular,ANN,Flexure,31,0.22611969665902087,90.57852078840386,53.37327025345876,Sufficient test samples
+Circular,KNN,Flexure,31,-0.0025965282274933443,103.09828135412,42.72585703167677,Sufficient test samples
+Circular,Decision Tree,Flexure,31,-1.3650447046619534,158.34633089099287,101.62906917499772,Sufficient test samples
+Circular,LightGBM,Flexure,31,-0.6397879979524479,131.85062085937653,84.21387717406735,Sufficient test samples
+Circular,ANN,Flexure-shear,7,0.08563636005215758,65.72418831616946,53.79582911753332,Sufficient test samples
+Circular,KNN,Flexure-shear,7,-0.3679221589491035,80.38896733127982,50.755242506325395,Sufficient test samples
+Circular,Decision Tree,Flexure-shear,7,-0.5662703800692699,86.01993794786212,58.13867083206217,Sufficient test samples
+Circular,LightGBM,Flexure-shear,7,0.32925018686068663,56.29191686478329,44.39285480806249,Sufficient test samples
+Circular,ANN,Shear,0,,,,Zero test samples (all in training split by Paper_ID)
+Circular,KNN,Shear,0,,,,Zero test samples (all in training split by Paper_ID)
+Circular,Decision Tree,Shear,0,,,,Zero test samples (all in training split by Paper_ID)
+Circular,LightGBM,Shear,0,,,,Zero test samples (all in training split by Paper_ID)

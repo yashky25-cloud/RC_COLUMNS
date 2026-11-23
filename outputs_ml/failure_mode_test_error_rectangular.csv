@@ -1,0 +1,13 @@
+Shape,Model,Failure_Mode,Test_Specimen_Count,Test_R2,Test_RMSE_kN,Test_MAE_kN,Sampling_Note
+Rectangular,ANN,Flexure,30,0.037586790392461156,77.21764284655596,66.94607809019102,Sufficient test samples
+Rectangular,KNN,Flexure,30,-0.3289808217627723,90.73923414426709,75.12855549080523,Sufficient test samples
+Rectangular,Decision Tree,Flexure,30,-3.244687427393486,162.16555397532335,92.16807851785929,Sufficient test samples
+Rectangular,LightGBM,Flexure,30,-0.14133102893901994,84.08946022844417,72.87525090617925,Sufficient test samples
+Rectangular,ANN,Flexure-shear,5,0.5025198212372157,62.237853818737676,43.53936702951554,Sufficient test samples
+Rectangular,KNN,Flexure-shear,5,0.34468073273650934,71.43206182877191,62.17026101778309,Sufficient test samples
+Rectangular,Decision Tree,Flexure-shear,5,0.45141163816001606,65.35668445690655,56.7815255863055,Sufficient test samples
+Rectangular,LightGBM,Flexure-shear,5,0.4558170648838389,65.09373278034258,57.35466355914034,Sufficient test samples
+Rectangular,ANN,Shear,7,-1.0768503121986184,140.90902721287313,105.90982367243248,Sufficient test samples
+Rectangular,KNN,Shear,7,0.33783736011624277,79.56435664524524,56.25885390917626,Sufficient test samples
+Rectangular,Decision Tree,Shear,7,0.18080401231382437,88.4973216106815,54.94728955783715,Sufficient test samples
+Rectangular,LightGBM,Shear,7,0.061813455609482704,94.70672496041249,65.3613157584203,Sufficient test samples
